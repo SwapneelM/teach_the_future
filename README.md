@@ -10,6 +10,12 @@ Abril Perazzini, UNICEF Innocenti
 
 Akash Aithal, Duke University
 
+Margareta Luis, Teenovation Dubai
+
+Mina Naseem Niazi, UNICEF Innocenti
+
+Rajalakshmi Balasubramanian - Emirates National Bank of Dubai
+
 [Swapneel Mehta](https://mehtaver.se), SimPPL
 
 ## Introduction
