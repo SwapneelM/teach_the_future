@@ -7,6 +7,7 @@ We are discussing the present and future of goal-oriented AI systems design. We 
 # Notes for Group Conversation for Teach the Future: Dubai Future Forum
 
 Abril Perazzini, UNICEF Innocenti
+
 Akash Aithal, Duke University
 
 [Swapneel Mehta](https://mehtaver.se), SimPPL
